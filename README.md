@@ -1,3 +1,3 @@
 ## Welcome!
 
-- This is practice space.
+- This is python bootcamp project space.
